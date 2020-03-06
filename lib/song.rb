@@ -12,6 +12,6 @@ class Song
   end
 
   def artist_name
-    self.artist.select {|name| name}
+    self.artist
   end
 end
