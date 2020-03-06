@@ -1,5 +1,4 @@
 class Song
-
   @@all = []
   def initalize(name)
     @name = name
