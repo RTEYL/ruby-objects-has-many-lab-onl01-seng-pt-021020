@@ -13,5 +13,6 @@ class Post
 
   def artist_name
     author = self.author
+    author.name
   end
 end
